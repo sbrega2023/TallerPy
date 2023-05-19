@@ -1,0 +1,578 @@
+
+2023-03-03 11:56:01,324 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 11:56:16,954 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 11:56:31,269 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 11:56:31,318 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 11:56:31,364 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 11:56:31,364 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 11:56:31,366 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 11:56:31,366 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 11:56:31,366 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 11:56:33,436 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 11:56:53,919 - DEBUG - at line: 209 - ['CDwindow-EC85F4FFEDBACAE5A0F3E3BCF5071E62', 'CDwindow-508E200579BD994A06CCB43C2FD579FF']
+
+2023-03-03 11:56:53,973 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 11:57:14,615 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 11:57:14,675 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 11:57:14,699 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 0 mensajes de error
+
+2023-03-03 11:57:15,796 - DEBUG - at line: 255 - Se cerro el mensaje de advertencia...Sigue procesando el proyecto
+
+2023-03-03 11:57:18,802 - DEBUG - at line: 291 - Tarea: Generación de HEA
+
+2023-03-03 11:57:21,886 - DEBUG - at line: 298 - Click al menu Buscar
+
+2023-03-03 11:57:23,297 - DEBUG - at line: 303 - Click al menu desplegable
+
+2023-03-03 11:57:24,379 - DEBUG - at line: 309 - Click a la opcion tarea
+
+2023-03-03 11:57:26,978 - DEBUG - at line: 317 - Se pego la tarea elegida
+
+2023-03-03 11:57:29,246 - DEBUG - at line: 322 - Click al menu numero
+
+2023-03-03 11:58:02,312 - DEBUG - at line: 344 - Campo: Modificar Status
+
+2023-03-03 11:58:02,828 - DEBUG - at line: 347 - Accion: Cerrar
+
+2023-03-03 11:58:03,330 - DEBUG - at line: 351 - Estado del mensaje: 
+
+2023-03-03 11:58:03,350 - DEBUG - at line: 353 - Estado de la Tarea: En tratamiento - Liberado - Listo para Ejecución
+
+2023-03-03 11:58:06,537 - DEBUG - at line: 471 - Cerrar
+
+2023-03-03 11:58:32,168 - DEBUG - at line: 109 - Hay una Adevertencia y/o un Error...
+
+2023-03-03 11:58:53,300 - DEBUG - at line: 114 - Cierra popUp
+
+2023-03-03 11:59:23,715 - DEBUG - at line: 479 - Acción: Cerrar, OK
+
+2023-03-03 12:00:13,800 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 12:00:13,800 - DEBUG - at line: 172 - ('2045856', <class 'str'>)
+
+2023-03-03 12:00:15,891 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 12:00:34,293 - DEBUG - at line: 209 - ['CDwindow-EC85F4FFEDBACAE5A0F3E3BCF5071E62', 'CDwindow-4AD0B47F614F4D0AB754831641536E9E']
+
+2023-03-03 12:00:34,324 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 12:00:55,026 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 12:00:55,048 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 12:00:55,071 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 0 mensajes de error
+
+2023-03-03 12:00:56,158 - DEBUG - at line: 255 - Se cerro el mensaje de advertencia...Sigue procesando el proyecto
+
+2023-03-03 12:00:59,173 - DEBUG - at line: 291 - Tarea: Generación de HEA
+
+2023-03-03 12:01:02,251 - DEBUG - at line: 298 - Click al menu Buscar
+
+2023-03-03 12:01:03,352 - DEBUG - at line: 303 - Click al menu desplegable
+
+2023-03-03 12:01:04,439 - DEBUG - at line: 309 - Click a la opcion tarea
+
+2023-03-03 12:01:06,621 - DEBUG - at line: 317 - Se pego la tarea elegida
+
+2023-03-03 12:01:08,890 - DEBUG - at line: 322 - Click al menu numero
+
+2023-03-03 12:01:08,890 - DEBUG - at line: 344 - Campo: Modificar Status
+
+2023-03-03 12:01:09,393 - DEBUG - at line: 347 - Accion: Cerrar
+
+2023-03-03 12:01:09,898 - DEBUG - at line: 351 - Estado del mensaje: 
+
+2023-03-03 12:01:10,133 - DEBUG - at line: 353 - Estado de la Tarea: En tratamiento - Liberado - Listo para Ejecución
+
+2023-03-03 12:01:13,307 - DEBUG - at line: 471 - Cerrar
+
+2023-03-03 12:01:38,958 - DEBUG - at line: 109 - Hay una Adevertencia y/o un Error...
+
+2023-03-03 12:02:00,102 - DEBUG - at line: 114 - Cierra popUp
+
+2023-03-03 12:02:30,444 - DEBUG - at line: 479 - Acción: Cerrar, OK
+
+2023-03-03 16:11:24,004 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:11:33,729 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:11:48,011 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:11:48,038 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:11:48,064 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:11:48,065 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 16:11:48,066 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:11:48,066 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:11:48,066 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:11:50,131 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:12:09,357 - DEBUG - at line: 209 - ['CDwindow-6BD84F23651ED3526D394596AA3FDA96', 'CDwindow-DC912A1DDE5AD49B4E1662781B48FADE']
+
+2023-03-03 16:12:09,384 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:12:19,891 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:12:19,948 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:12:19,971 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 0 mensajes de error
+
+2023-03-03 16:12:21,065 - DEBUG - at line: 255 - Se cerro el mensaje de advertencia...Sigue procesando el proyecto
+
+2023-03-03 16:12:24,076 - DEBUG - at line: 291 - Tarea: Generación de HEA
+
+2023-03-03 16:12:27,154 - DEBUG - at line: 298 - Click al menu Buscar
+
+2023-03-03 16:12:28,619 - DEBUG - at line: 303 - Click al menu desplegable
+
+2023-03-03 16:12:29,690 - DEBUG - at line: 309 - Click a la opcion tarea
+
+2023-03-03 16:12:31,837 - DEBUG - at line: 317 - Se pego la tarea elegida
+
+2023-03-03 16:12:31,849 - DEBUG - at line: 325 - Exception :NO SE PUDO PROCESAR LA TAREA
+
+2023-03-03 16:16:11,798 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:16:20,997 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:16:35,270 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:16:35,300 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:16:35,327 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:16:35,327 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 16:16:35,328 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:16:35,328 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:16:35,328 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:16:37,386 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:16:56,225 - DEBUG - at line: 209 - ['CDwindow-2B9F3CEDBAB6D0AEB0829469327E73EC', 'CDwindow-0066125FC1F61BDCDAC581841EA38724']
+
+2023-03-03 16:16:56,251 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:17:06,723 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:17:06,773 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:17:06,796 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 16:17:07,894 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:17:08,952 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:17:58,976 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:18:08,159 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:18:22,452 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:18:22,480 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:18:22,506 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:18:22,507 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 16:18:22,507 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:18:22,507 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:18:22,507 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:18:24,560 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:18:43,333 - DEBUG - at line: 209 - ['CDwindow-76EB5E7B714E1C10542BDCBE1655C06A', 'CDwindow-044054EC0FED016E69E7590DFF1A2557']
+
+2023-03-03 16:18:43,359 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:18:53,871 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:18:53,920 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:18:53,941 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 16:18:55,039 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:18:56,091 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:25:44,166 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:25:54,759 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:26:09,059 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:26:09,096 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:26:09,137 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:26:09,138 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, 'No Procesado'], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 16:26:09,139 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:26:09,139 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:26:09,139 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:26:11,213 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:26:29,982 - DEBUG - at line: 209 - ['CDwindow-4D698850A2FA849677250EE3AEC9DA73', 'CDwindow-B0FD68B79A16C7743E36C825E1B8D77D']
+
+2023-03-03 16:26:30,010 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:26:40,484 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:26:40,552 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:26:40,578 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 16:26:41,699 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:26:42,766 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:26:43,835 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:36:56,614 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:37:05,897 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:37:20,171 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:37:20,199 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:37:20,225 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:37:20,225 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, 'No Procesado'], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 16:37:20,225 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:37:20,225 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:37:20,225 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:37:22,292 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:37:41,093 - DEBUG - at line: 209 - ['CDwindow-3D1BFC8863170DF043186A809D650730', 'CDwindow-EFB864F199CCF21FDD7C68553C1A9DFC']
+
+2023-03-03 16:37:41,119 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:38:01,820 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:38:01,868 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:38:01,892 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 16:38:23,028 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:43:41,744 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:43:50,984 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:44:05,243 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:44:05,273 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:44:05,306 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:44:05,306 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None]]
+
+2023-03-03 16:44:05,307 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:44:05,307 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:44:05,307 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:44:07,388 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:44:26,527 - DEBUG - at line: 209 - ['CDwindow-B619D2A41C9560566E7FD4684F8DF44E', 'CDwindow-75C6D81DA0CBDF5DCAE04667B4737AF5']
+
+2023-03-03 16:44:26,564 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:44:47,259 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:44:47,309 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:44:47,332 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 0 mensajes de error
+
+2023-03-03 16:44:48,418 - DEBUG - at line: 255 - Se cerro el mensaje de advertencia...Sigue procesando el proyecto
+
+2023-03-03 16:44:51,420 - DEBUG - at line: 291 - Tarea: Generación de HEA
+
+2023-03-03 16:44:54,508 - DEBUG - at line: 298 - Click al menu Buscar
+
+2023-03-03 16:44:55,815 - DEBUG - at line: 303 - Click al menu desplegable
+
+2023-03-03 16:44:56,897 - DEBUG - at line: 309 - Click a la opcion tarea
+
+2023-03-03 16:44:59,059 - DEBUG - at line: 317 - Se pego la tarea elegida
+
+2023-03-03 16:45:01,334 - DEBUG - at line: 322 - Click al menu numero
+
+2023-03-03 16:45:01,334 - DEBUG - at line: 344 - Campo: Modificar Status
+
+2023-03-03 16:45:01,837 - DEBUG - at line: 347 - Accion: Cerrar
+
+2023-03-03 16:45:02,340 - DEBUG - at line: 351 - Estado del mensaje: 
+
+2023-03-03 16:45:02,360 - DEBUG - at line: 353 - Estado de la Tarea: En tratamiento - Liberado - Listo para Ejecución
+
+2023-03-03 16:45:05,552 - DEBUG - at line: 471 - Cerrar
+
+2023-03-03 16:45:24,183 - DEBUG - at line: 106 - El Proyecto NO se encuentra Bloqueado, se sigue con el proceso
+
+2023-03-03 16:45:24,200 - DEBUG - at line: 479 - Acción: Cerrar, OK
+
+2023-03-03 16:46:01,225 - DEBUG - at line: 551 - TimeOutException. Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005937D3]
+	(No symbol) [0x00528B81]
+	(No symbol) [0x0042B36D]
+	(No symbol) [0x0045D382]
+	(No symbol) [0x0045D4BB]
+	(No symbol) [0x00493302]
+	(No symbol) [0x0047B464]
+	(No symbol) [0x00491215]
+	(No symbol) [0x0047B216]
+	(No symbol) [0x00450D97]
+	(No symbol) [0x0045253D]
+	GetHandleVerifier [0x0080ABF2+2510930]
+	GetHandleVerifier [0x00838EC1+2700065]
+	GetHandleVerifier [0x0083C86C+2714828]
+	GetHandleVerifier [0x00643480+645344]
+	(No symbol) [0x00530FD2]
+	(No symbol) [0x00536C68]
+	(No symbol) [0x00536D4B]
+	(No symbol) [0x00540D6B]
+	BaseThreadInitThunk [0x778500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77997BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77997B8E+238]
+
+
+2023-03-03 16:46:04,605 - DEBUG - at line: 553 - Se Forzo el cierre, por TimeOutException
+
+2023-03-03 16:51:09,457 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:51:18,752 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:51:33,023 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:51:33,049 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:51:33,075 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:51:33,076 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Usuario', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None, None], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None, None], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None, None]]
+
+2023-03-03 16:51:33,076 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:51:33,076 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:51:33,076 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:51:35,124 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:51:53,915 - DEBUG - at line: 209 - ['CDwindow-94AE551C43F216D901B4097B4B4A5C69', 'CDwindow-61E69FC026FFE8B90A78D7CD74E74B97']
+
+2023-03-03 16:51:53,943 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:52:14,642 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:52:14,692 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:52:14,713 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 16:52:35,863 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 16:52:48,499 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:52:48,499 - DEBUG - at line: 172 - ('2045856', <class 'str'>)
+
+2023-03-03 16:52:50,581 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:53:08,943 - DEBUG - at line: 209 - ['CDwindow-94AE551C43F216D901B4097B4B4A5C69', 'CDwindow-81DD24F5B8E5E751775E11C457082A72']
+
+2023-03-03 16:53:08,984 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:53:29,679 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:53:29,702 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:53:29,723 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 0 mensajes de error
+
+2023-03-03 16:53:30,823 - DEBUG - at line: 255 - Se cerro el mensaje de advertencia...Sigue procesando el proyecto
+
+2023-03-03 16:53:33,827 - DEBUG - at line: 291 - Tarea: Generación de HEA
+
+2023-03-03 16:53:36,910 - DEBUG - at line: 298 - Click al menu Buscar
+
+2023-03-03 16:53:38,226 - DEBUG - at line: 303 - Click al menu desplegable
+
+2023-03-03 16:53:39,321 - DEBUG - at line: 309 - Click a la opcion tarea
+
+2023-03-03 16:53:41,468 - DEBUG - at line: 317 - Se pego la tarea elegida
+
+2023-03-03 16:53:43,697 - DEBUG - at line: 322 - Click al menu numero
+
+2023-03-03 16:53:43,698 - DEBUG - at line: 344 - Campo: Modificar Status
+
+2023-03-03 16:53:44,200 - DEBUG - at line: 347 - Accion: Cerrar
+
+2023-03-03 16:53:44,702 - DEBUG - at line: 351 - Estado del mensaje: 
+
+2023-03-03 16:53:44,723 - DEBUG - at line: 353 - Estado de la Tarea: En tratamiento - Liberado - Listo para Ejecución
+
+2023-03-03 16:53:47,924 - DEBUG - at line: 471 - Cerrar
+
+2023-03-03 16:54:13,550 - DEBUG - at line: 109 - Hay una Adevertencia y/o un Error...
+
+2023-03-03 16:54:34,680 - DEBUG - at line: 114 - Cierra popUp
+
+2023-03-03 16:55:04,842 - DEBUG - at line: 479 - Acción: Cerrar, OK
+
+2023-03-03 16:55:47,912 - DEBUG - at line: 551 - TimeOutException. Message: 
+Stacktrace:
+Backtrace:
+	(No symbol) [0x005937D3]
+	(No symbol) [0x00528B81]
+	(No symbol) [0x0042B36D]
+	(No symbol) [0x0045D382]
+	(No symbol) [0x0045D4BB]
+	(No symbol) [0x00493302]
+	(No symbol) [0x0047B464]
+	(No symbol) [0x00491215]
+	(No symbol) [0x0047B216]
+	(No symbol) [0x00450D97]
+	(No symbol) [0x0045253D]
+	GetHandleVerifier [0x0080ABF2+2510930]
+	GetHandleVerifier [0x00838EC1+2700065]
+	GetHandleVerifier [0x0083C86C+2714828]
+	GetHandleVerifier [0x00643480+645344]
+	(No symbol) [0x00530FD2]
+	(No symbol) [0x00536C68]
+	(No symbol) [0x00536D4B]
+	(No symbol) [0x00540D6B]
+	BaseThreadInitThunk [0x778500F9+25]
+	RtlGetAppContainerNamedObjectPath [0x77997BBE+286]
+	RtlGetAppContainerNamedObjectPath [0x77997B8E+238]
+
+
+2023-03-03 16:55:49,363 - DEBUG - at line: 553 - Se Forzo el cierre, por TimeOutException
+
+2023-03-03 16:58:34,952 - DEBUG - at line: 70 - Log de errores creado correctamente.
+
+2023-03-03 16:58:44,926 - DEBUG - at line: 129 - First window title = Entrada al sistema
+
+2023-03-03 16:58:59,274 - DEBUG - at line: 141 - Espera lista, buscando...
+
+2023-03-03 16:58:59,310 - DEBUG - at line: 144 - Frame1 encontrado ok.
+
+2023-03-03 16:58:59,344 - DEBUG - at line: 147 - Frame2 encontrado ok.
+
+2023-03-03 16:58:59,345 - DEBUG - at line: 156 - [['Número de Proyecto', 'Tarea del Proyecto', 'Campo', 'Acción', 'Valor', 'Usuario', 'Validación', 'Causa'], [2045855, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, 'No Procesado', 'Fallo el IFRAME o el Proyecto esta bloqueado'], [2045856, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, 'No procesado', 'No se pudieron grabar los cambios - Tiempo de grabación excedido'], [2045857, 'Generación de HEA', 'Modificar Status', 'Cerrar', None, None, None, None]]
+
+2023-03-03 16:58:59,346 - DEBUG - at line: 157 - Cantidad de Filas a procesar: 4
+
+2023-03-03 16:58:59,346 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 16:58:59,347 - DEBUG - at line: 172 - ('2045855', <class 'str'>)
+
+2023-03-03 16:59:01,414 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 16:59:20,000 - DEBUG - at line: 209 - ['CDwindow-B9039BF0AC5813BFB1EF3D19CE014915', 'CDwindow-F593E665E1B5CF44EE9861561CD2010F']
+
+2023-03-03 16:59:20,032 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 16:59:40,676 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 16:59:40,733 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 16:59:40,755 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 17:00:01,904 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 17:00:14,128 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 17:00:14,129 - DEBUG - at line: 172 - ('2045856', <class 'str'>)
+
+2023-03-03 17:00:16,199 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 17:00:34,548 - DEBUG - at line: 209 - ['CDwindow-B9039BF0AC5813BFB1EF3D19CE014915', 'CDwindow-F5D9E26F0CE062179AC93EE7B75F894D']
+
+2023-03-03 17:00:34,577 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 17:00:55,226 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 17:00:55,247 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 17:00:55,282 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 2 mensajes de error
+
+2023-03-03 17:01:16,397 - DEBUG - at line: 265 - Se cierra el mensaje de error...se debe continuar con el proximo proyecto
+
+2023-03-03 17:01:28,937 - DEBUG - at line: 168 - Proximo proyecto a procesar...
+
+2023-03-03 17:01:28,937 - DEBUG - at line: 172 - ('2045857', <class 'str'>)
+
+2023-03-03 17:01:31,014 - DEBUG - at line: 96 - Proximo proyecto
+
+2023-03-03 17:01:49,358 - DEBUG - at line: 209 - ['CDwindow-B9039BF0AC5813BFB1EF3D19CE014915', 'CDwindow-AC228F5C7937D3991F2696486A814212']
+
+2023-03-03 17:01:49,384 - DEBUG - at line: 213 - iframe encontrado ok
+
+2023-03-03 17:02:10,077 - DEBUG - at line: 225 - HAY UN POPUP...
+
+2023-03-03 17:02:10,107 - DEBUG - at line: 234 - Mensaje Adv: Filtrar 1 mensajes de advertencia
+
+2023-03-03 17:02:10,133 - DEBUG - at line: 243 - Mensaje de Error: Filtrar 0 mensajes de error
+
+2023-03-03 17:02:11,217 - DEBUG - at line: 255 - Se cerro el mensaje de advertencia...Sigue procesando el proyecto
+
+2023-03-03 17:02:14,218 - DEBUG - at line: 291 - Tarea: Generación de HEA
+
+2023-03-03 17:02:17,289 - DEBUG - at line: 298 - Click al menu Buscar
+
+2023-03-03 17:02:18,390 - DEBUG - at line: 303 - Click al menu desplegable
+
+2023-03-03 17:02:19,470 - DEBUG - at line: 309 - Click a la opcion tarea
+
+2023-03-03 17:02:21,635 - DEBUG - at line: 317 - Se pego la tarea elegida
+
+2023-03-03 17:02:23,912 - DEBUG - at line: 322 - Click al menu numero
+
+2023-03-03 17:02:23,912 - DEBUG - at line: 344 - Campo: Modificar Status
+
+2023-03-03 17:02:24,427 - DEBUG - at line: 347 - Accion: Cerrar
+
+2023-03-03 17:02:24,929 - DEBUG - at line: 351 - Estado del mensaje: 
+
+2023-03-03 17:02:24,950 - DEBUG - at line: 353 - Estado de la Tarea: En tratamiento - Liberado - Listo para Ejecución
+
+2023-03-03 17:02:28,127 - DEBUG - at line: 471 - Cerrar
+
+2023-03-03 17:02:53,736 - DEBUG - at line: 109 - Hay una Adevertencia y/o un Error...
+
+2023-03-03 17:03:14,844 - DEBUG - at line: 114 - Cierra popUp
+
+2023-03-03 17:03:44,950 - DEBUG - at line: 479 - Acción: Cerrar, OK
+
+2023-03-03 17:04:24,965 - DEBUG - at line: 560 - Except: FALLO LA GRABACION
