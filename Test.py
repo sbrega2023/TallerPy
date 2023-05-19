@@ -755,10 +755,8 @@ from asyncio import streams
 
 #Introduccion a DJANGO
 
-print('hola mucndi')
-
-
-
+print('hola mundo')
+print('hola mundo 2')
 
 
 
